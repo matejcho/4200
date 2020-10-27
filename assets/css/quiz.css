@@ -1,0 +1,21 @@
+input[type='submit']{
+	background: #f06226;
+	border: 0;
+	color: #fff;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+
+#results h3{
+	background: #f06226;
+	padding: 10px; 
+	margin: 10px 0;
+}
+
+#results span{
+	color: #000;
+	font-weight: bold;
+}
+#quizForm{
+    margin-left: 10rem;
+}
